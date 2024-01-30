@@ -1,5 +1,5 @@
 def git_demo():
-    print("hello world")
+    print("hello world python")
 
 
 if __name__ == '__main__':
